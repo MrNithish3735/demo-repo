@@ -1,3 +1,3 @@
-#Demo for Learning
+#Demo
 
 This is the sample readme file.
